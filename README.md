@@ -1,4 +1,4 @@
-#### Hi, I’m Sheetal 🍀
+#### Hi, I’m Sheetal
 
 I hold a BSc in Mathematics and an MSc in Big Data Analytics from Jai Hind College, Mumbai.  
 I have a strong foundation in mathematics, statistics, and data analytics, with an interest in applying analytical and machine learning techniques to real-world problems.
