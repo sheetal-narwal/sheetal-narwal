@@ -27,4 +27,4 @@ MSc Big Data Analytics – Jai Hind College, Mumbai
 • Data Science & Analytics  
 • Applied Statistics  
 • Machine Learning  
-• Real-world data-driven decision making
+• Real-world data-driven decision making 
