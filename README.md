@@ -1,30 +1,56 @@
-#### Hi, I’m Sheetal
-
+## Hi, I’m Sheetal
 I hold a BSc in Mathematics and an MSc in Big Data Analytics from Jai Hind College, Mumbai.  
-I have a strong foundation in mathematics, statistics, and data analytics, with an interest in applying analytical and machine learning techniques to real-world problems.
+I have a strong foundation in mathematics, statistics, and data analytics, with hands-on experience in working with real-world datasets to derive insights, build reports, and support data-driven decision making.
 
-#### Education
+I am actively building projects and strengthening practical skills in analytics, visualization, and machine learning, and I am open to new opportunities in Data Analytics and related roles.
 
-BSc Mathematics – Jai Hind College, Mumbai  
-MSc Big Data Analytics – Jai Hind College, Mumbai  
+## Education
+- **BSc Mathematics** – Jai Hind College, Mumbai  
+- **MSc Big Data Analytics** – Jai Hind College, Mumbai  
 
-#### Skills & Tools
+## Technical Skills & Tools
 
-• Python (NumPy, Pandas, Matplotlib, Scikit-learn)  
-• Statistics & Probability  
-• Machine Learning (Supervised & Unsupervised Learning)  
-• Data Analysis & Data Visualization  
-• SQL  
-• Exploratory Data Analysis (EDA)  
+### Programming & Data
+- **Python** (NumPy, Pandas, Matplotlib, Scikit-learn)  
+- **SQL**  
+- **Microsoft Excel** (Advanced formulas, Pivot Tables, VLOOKUP/XLOOKUP, Dashboards)  
 
-#### Currently Working On
+### Data Analysis & Visualization
+- **Exploratory Data Analysis (EDA)**  
+- **Data Cleaning & Preprocessing**  
+- **Tableau**  
+- **Power BI**  
+- **Data Visualization & Reporting**  
 
-• Strengthening hands-on skills in data analytics and machine learning  
-• Building structured projects to showcase analytical and problem-solving abilities  
+### Statistics & Machine Learning
+- **Statistics & Probability**  
+- **Supervised & Unsupervised Learning**  
+- **Regression, Classification, Clustering**  
+- **Feature Engineering & Model Evaluation**  
 
-#### Interests
+### Productivity & Reporting Tools
+- **Microsoft Word**  
+- **Microsoft PowerPoint**  
+- **Report Writing & Presentation of Insights**  
 
-• Data Science & Analytics  
-• Applied Statistics  
-• Machine Learning  
-• Real-world data-driven decision making 
+## Hands-on Experience
+- Analyzing structured datasets to identify trends and patterns  
+- Creating dashboards and reports using Excel, Tableau, and Power BI  
+- Performing EDA and statistical analysis to support business insights  
+- Building and evaluating machine learning models for predictive tasks  
+- Presenting analytical findings in a clear and business-friendly manner  
+
+## Currently Working On
+- Building end-to-end data analytics projects (from data cleaning to dashboards)  
+- Improving skills in Tableau, Power BI, and advanced Excel reporting  
+- Strengthening applied machine learning and real-world problem solving  
+
+## Interests
+- Data Science & Data Analytics  
+- Business Intelligence & Reporting  
+- Applied Statistics  
+- Machine Learning  
+- Real-world data-driven decision making  
+
+## Career Goals
+I am seeking new opportunities in the field of **Analyst** where I can leverage my analytical and problem-solving skills, work with diverse datasets, contribute to data-driven decision making, and continue growing professionally while making a meaningful impact.
